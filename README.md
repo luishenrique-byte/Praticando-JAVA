@@ -10,7 +10,8 @@ Aqui você encontrará códigos em Java desenvolvidos durante o **1º semestre d
 - **Trabalhos práticos** enviados como atividades avaliativas.
 - Códigos criados para **reforçar o aprendizado da linguagem Java**.
 
-Com o avanço do curso, este repositório também poderá incluir códigos em outras linguagens, especialmente quando iniciar disciplinas relacionadas a **desenvolvimento web e front-end**.
+Com o avanço do curso, haverá outros repositórios que também poderão incluir códigos em outras linguagens, especialmente quando iniciar disciplinas relacionadas a **desenvolvimento web e front-end**.
+Então, fiquem de olho no perfil.
 
 ## 📌 Objetivo do repositório
 
